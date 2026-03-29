@@ -18,13 +18,4 @@ building an AI-powered statutory reporting platform (Django · React · Azure Op
 
 ---
 
-### 📌 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [LifeOS](https://github.com/feruza-k/LifeOS) | AI personal assistant — built in 31 days | FastAPI · OpenAI · PostgreSQL · React Native |
-| [Location Intelligence — Café Site Selection](https://github.com/feruza-k/...) | MSc thesis: GIS + ML for spatial decision-making | ArcGIS · Python · AHP · ML 
-
----
-
 📫 feruza97k@gmail.com · [LinkedIn](https://linkedin.com/in/feruza1997)
